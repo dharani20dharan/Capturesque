@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+config.py
+instance/
+*.sqlite3
+*.log
+uploads/
+node_modules/
+.env
